@@ -1,0 +1,14 @@
+{
+  "name": "nu_plugin_nusor",
+  "version": "0.1.0",
+  "nu-version": "0.103.0",
+  "license": "LICENSE",
+  "type": "script",
+  "author": "Chuyang Chen <chuyangchen2018@outlook.com>",
+  "short-description": "An AI shell",
+  "supported-os": {"arch": ["*"], "family": ["*"], "name": ["*"]},
+  "url": "https://github.com/cychen2021/nusor",
+  "scripts": [
+    "scripts/nusor.nu"
+  ]
+}
