@@ -1,0 +1,1 @@
+# Nusor - Your AI Shell
